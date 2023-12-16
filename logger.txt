@@ -1,0 +1,5 @@
+yigit signed in.
+Load file was entered.
+Custom file name was entered as yigitLogger.txt.
+Save file was entered.
+Default file name was selected. 'logger.txt'
